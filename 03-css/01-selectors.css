@@ -20,13 +20,13 @@ li[class="parrot"] {
   color: var(--green);
 }
 li[class="donkey"] {
-  color: var(--blue);
+  color: var(--royalblue);
 }
 li[class="hedgehog"] {
   color: var(--magenta);
 }
 li[class="cat dog parrot"] {
-  color: var(--blue)
+  color: var(--royalblue)
 }
 
 /* Use descendant, child, and sibling selectors for the second part */
@@ -40,7 +40,7 @@ li[class="cat dog parrot"] {
 }
 
 .list-food li.second + li {
-  color: var(--blue);
+  color: var(--royalblue);
 }
 
 .list-cleaning > ol > li {
