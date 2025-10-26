@@ -1,6 +1,40 @@
-@media (min-width: 1024px) {
+nav {
+  background-color: #000000;
+  display: block;
+  margin: 0;
+}
+
+nav li {
+  list-style-type: none;
+  padding-right: 30px;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+@media (min-width: 768px) {
   body {
     background: var(--green);
+    color: var(--white);
+  }
+  nav li{
+    display: inline-block;
+  }
+}
+@media (min-width: 321px) and (max-width: 768px) {
+  body {
+    background: var(--orange);
+    color: var(--black);
+  }
+  nav li{
+    display: inline-block;
+  }
+}
+@media (max-width: 320px) {
+  body {
+    background: var(--purple);
     color: var(--white);
   }
 }
