@@ -14,7 +14,7 @@ Write a function `replaceItems` that takes in a string and returns a string wher
 
 ```javascript
 console.log(replaceItems('All that is gold does not glitter'));
-// expected: 'All that is shiny does not glitter'
+// expected: 'All that is SHINY does not glitter'
 console.log(replaceItems('Not all those who Wander are lost'));
 // expected: 'Not all those who roam are lost'
 ```

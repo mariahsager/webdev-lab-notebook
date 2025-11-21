@@ -13,7 +13,7 @@ Recreate the layout below using Boostrap card classes.
 
 ## <a id="ex02"></a> Exercise 02 - Grid
 
-Recreate the layout below using Boostrap grid.
+Recreate the layout below using Boostrap grid.s
 
 <kbd><img src="../_assets/bootstrap-exercises/bootstrap-ex02-grid-01.png" height=200 alt="screenshot of a grid layout"></kbd>
 <kbd><img src="../_assets/bootstrap-exercises/bootstrap-ex02-grid-02.png" height=200 alt="screenshot of a grid layout"></kbd>
